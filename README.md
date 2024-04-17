@@ -1,2 +1,2 @@
-# serve-the-fine-tuned-llama-2-model-lp-author
-Repository for liveProject: Serve the Fine-tuned Llama 2 Model
+# service-the-fine-tuned-model-in-a-rag-app-lp-author
+Repository for liveProject: Service the Fine-Tuned Model in a RAG App
